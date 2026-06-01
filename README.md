@@ -35,6 +35,8 @@ The design is based on:
 
 RED → YELLOW → GREEN → RED
 
+## Simulation output 
+  ![Simulation Output](screenshots/simulation-output.png)
 ## Learning Outcomes
 
 * Understanding FSM design
