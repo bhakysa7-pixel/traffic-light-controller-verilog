@@ -35,6 +35,12 @@ The design is based on:
 
 RED → YELLOW → GREEN → RED
 
+## Simulation Output
+
+The following output demonstrates the FSM transitioning through RED, YELLOW and GREEN states using counter-based timing.
+
+![Simulation Output](screenshots/simulation-output.png)
+
 ## Learning Outcomes
 
 * Understanding FSM design
