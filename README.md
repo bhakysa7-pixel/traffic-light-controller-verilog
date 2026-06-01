@@ -37,6 +37,12 @@ RED → YELLOW → GREEN → RED
 
 ## Simulation output 
   ![Simulation Output](screenshots/simulation-output.png)
+  
+  The simulation verifies the FSM transitions:
+
+    RED → YELLOW → GREEN → RED
+
+    using counter-based timing control.
 ## Learning Outcomes
 
 * Understanding FSM design
